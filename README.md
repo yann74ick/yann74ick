@@ -6,14 +6,7 @@
 // Crypto ced est mon poto
 
 +1 et on avance
-+2
-+3
-+4
-+5
-+6
-+7
-+8
-+9
+
 <!---
 yann74ick/yann74ick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
