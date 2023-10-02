@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database xmlns:xsi="et" xmlns="test">
+  <Datas>
+    <Data name="j1" access="private" xsi:type="array" type="jointRx" size="1">
+    </Data>
+    <Data name="mNomSpeed" access="private" xsi:type="array" type="mdesc" size="1">
+    </Data>
+    <Data name="p1" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" fatherId="world[0]" />
+    </Data>
+    <Data name="p2" access="private" xsi:type="array" type="pointRx" size="1">
+      <Value key="0" fatherId="world[0]" />
+    </Data>
+    <Data name="tPINCE" access="private" xsi:type="array" type="tool" size="1">
+      <Value key="0" z="100" fatherId="flange[0]" ioLink="valve1" />
+    </Data>
+  </Datas>
+</Database>
