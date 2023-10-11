@@ -6,11 +6,6 @@
 // Crypto ced est mon poto
 456
 +1 et on avance encore et encore
-1111
-  +45
-  4585
-  miam
-84
   54
   tet
 <!---
