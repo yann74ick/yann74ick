@@ -5,7 +5,7 @@
     </Data>
     <Data name="mNomSpeed" access="public" xsi:type="array" type="mdesc" size="1">
     </Data>
-    <Data name="p1" access="private" xsi:type="array" type="pointRx" size="1">
+    <Data name="p1" access="private" xsi:type="array" type="pointRx" size="2">
       <Value key="0" fatherId="world[0]" />
     </Data>
     <Data name="p2" access="private" xsi:type="array" type="pointRx" size="1">
