@@ -7,7 +7,7 @@
     <Float index="5" value="150673.6033" />
   </FloatArray>
   <FloatArray name="mark" >
-    <Float index="0" value="0" />
+    <Float index="0" value="1" />
     <Float index="1" value="0.0" />
     <Float index="2" value="0.0" />
     <Float index="3" value="0.0" />
