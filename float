@@ -8,7 +8,7 @@
   </FloatArray>
   <FloatArray name="mark" >
     <Float index="0" value="1" />
-    <Float index="1" value="0.2" />
+    <Float index="1" value="2" />
     <Float index="2" value="0.0" />
     <Float index="3" value="0.0" />
     <Float index="4" value="0.0" />
