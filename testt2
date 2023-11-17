@@ -1,4 +1,4 @@
-<?xml version="1.04" encoding="utf-8"?>
+<?xml version="1.04" encoding="utf-1"?>
 <Database xmlns:xsi="et" xmlns="test">
   <Datas>
     <Data name="j1" access="private" xsi:type="array" type="jointRx" size="1">
