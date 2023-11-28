@@ -8,7 +8,7 @@
     <Data name="p1" access="private" xsi:type="array" type="pointRx" size="1">
       <Value key="0" fatherId="world[0]" />
     </Data>
-    <Data name="p2" acces="private" xsi:type="array" type="pointRx" size="1">
+    <Data name="p2" acces="prvate" xsi:type="array" type="pointRx" size="1">
       <Value key="0" fatherId="world[0]" />
     </Data>
     <Data name="tPINCE" access="private" xsi:type="array" type="tool" size="1">
