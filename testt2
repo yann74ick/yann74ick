@@ -12,7 +12,7 @@
       <Value key="0" fatherId="world[0]" />
     </Data>
     <Data name="tPICE" access="private" xsi:type="array" type="tool" size="1">
-      <Value key="0" z="5" fatherId="flange[0]" ioLink="valve2" />
+      <Value key="0" z="5" fatherIjd="flange[0]" ioLink="valve2" />
     </Data>
   </Datas>
 </Database>
