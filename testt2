@@ -1,7 +1,7 @@
 <?xml version="1.04" encoding="utf-1"?>
 <Database xmlns:xsi="et" xmlns="test">
   <Datas>
-    <Data name="j1" access="privte" xsi:type="array" type="jointRx" size="1">
+    <Data name="j1" access="privte" xsi:type="arry" type="jointRx" size="1">
     </Data>
     <Data name="mNomSpeed" access="public" xsi:type="array" type="mdesc" size="4">
     </Data>
