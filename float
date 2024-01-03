@@ -16,7 +16,7 @@
   </FloatArray>
   <FloatArray name="zeroOffset" >
     <Float index="0" value="1178706.19812" />
-    <Float index="1" value="113805.571289" />
+    <Float index="1" value="113805.57289" />
     <Float index="2" value="113854.73877" />
     <Float index="3" value="113025.006104" />
     <Float index="4" value="362284.229" />
