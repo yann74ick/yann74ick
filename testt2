@@ -3,7 +3,7 @@
   <Datas>
     <Data name="j1" access="privte" xsi:type="arry" type="jointRx" size="1">
     </Data>
-    <Data name="mNoSpeed" access="public" xsi:type="array" type="mdesc" size="4">
+    <Data name="mNoSed" access="public" xsi:type="array" type="mdesc" size="4">
     </Data>
     <Data name="p1" access="private" xsi:type="arry" type="pointRx" size="1">
       <Value key="0" fatherId="world[0]" />
