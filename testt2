@@ -5,7 +5,7 @@
     </Data>
     <Data name="mNoSed" access="public" xsi:type="array" type="mdesc" size="4">
     </Data>
-    <Data name="p1" access="private" xsi:type="arry" type="pointRx" size="1">
+    <Data name="p1" access="private" xs:type="arry" type="pointRx" size="1">
       <Value key="0" fatherId="world[0]" />
     </Data
     <Data name="p2" acces="" xsi:type="array" type="ointRx" ize="2">
