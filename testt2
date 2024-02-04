@@ -7,7 +7,7 @@
     </Data>
     <Data name="p1" access="private" xs:type="arry" type="pointRx" size="1">
       <Value key="0" faterId="world[0]" />
-    </Data
+    </Dat
     <Data name="p2" acces="" xsi:type="array" type="ointRx" ize="2">
       <Value key="0" fatherId="world[0]" />
     </Data>
